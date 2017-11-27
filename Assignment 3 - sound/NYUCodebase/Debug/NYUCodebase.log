@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\berry\documents\github\cs3113-fall17\assignment 3 - sound\nyucodebase\main.cpp(250): warning C4018: '<': signed/unsigned mismatch
+c:\users\berry\documents\github\cs3113-fall17\assignment 3 - sound\nyucodebase\main.cpp(400): warning C4305: 'argument': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\Berry\Documents\GitHub\CS3113-Fall17\Assignment 3 - sound\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\Berry\Documents\GitHub\CS3113-Fall17\Assignment 3 - sound\Debug\NYUCodebase.pdb (Partial PDB)
