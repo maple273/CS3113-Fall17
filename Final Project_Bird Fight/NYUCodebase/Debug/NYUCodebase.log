@@ -1,0 +1,21 @@
+﻿  ShaderProgram.cpp
+  Matrix.cpp
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(151): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\matrix.cpp(214): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\maryq\documents\github\cs3113-fall17\final project_bird fight\nyucodebase\main.cpp(275): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  NYUCodebase.vcxproj -> C:\Users\MaryQ\Documents\GitHub\CS3113-Fall17\Final Project_Bird Fight\Debug\NYUCodebase.exe
+  NYUCodebase.vcxproj -> C:\Users\MaryQ\Documents\GitHub\CS3113-Fall17\Final Project_Bird Fight\Debug\NYUCodebase.pdb (Partial PDB)

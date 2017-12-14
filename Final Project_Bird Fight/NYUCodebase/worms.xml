@@ -1,0 +1,22 @@
+<TextureAtlas imagePath="worms.png">
+	<SubTexture name="worms_01.png" x="48" y="111" width="21" height="10"/>
+	<SubTexture name="worms_02.png" x="48" y="82" width="22" height="15"/>
+	<SubTexture name="worms_03.png" x="24" y="107" width="22" height="19"/>
+	<SubTexture name="worms_04.png" x="48" y="56" width="22" height="24"/>
+	<SubTexture name="worms_05.png" x="24" y="80" width="22" height="25"/>
+	<SubTexture name="worms_06.png" x="48" y="28" width="22" height="26"/>
+	<SubTexture name="worms_07.png" x="29" y="0" width="22" height="26"/>
+	<SubTexture name="worms_08.png" x="29" y="0" width="22" height="26"/>
+	<SubTexture name="worms_09.png" x="0" y="94" width="22" height="26"/>
+	<SubTexture name="worms_10.png" x="24" y="50" width="22" height="28"/>
+	<SubTexture name="worms_11.png" x="0" y="0" width="27" height="23"/>
+	<SubTexture name="worms_12.png" x="0" y="25" width="26" height="23"/>
+	<SubTexture name="worms_13.png" x="0" y="50" width="22" height="25"/>
+	<SubTexture name="worms_14.png" x="29" y="0" width="22" height="26"/>
+	<SubTexture name="worms_15.png" x="48" y="28" width="22" height="26"/>
+	<SubTexture name="worms_16.png" x="24" y="80" width="22" height="25"/>
+	<SubTexture name="worms_17.png" x="48" y="56" width="22" height="24"/>
+	<SubTexture name="worms_18.png" x="24" y="107" width="22" height="19"/>
+	<SubTexture name="worms_19.png" x="0" y="77" width="22" height="15"/>
+	<SubTexture name="worms_20.png" x="48" y="99" width="21" height="10"/>
+</TextureAtlas>
